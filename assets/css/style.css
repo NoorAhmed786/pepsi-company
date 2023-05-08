@@ -1,0 +1,338 @@
+*{
+    margin: auto;
+    padding: 0px;
+
+}
+.container{
+    width: 100%;
+}
+
+.header{
+    background-color: rgb(30, 30, 166);
+    height: 13vh;
+    width: 100%;
+}
+.header nav ul li{
+    float: left;
+    margin-left: 20px;
+    list-style: none;
+    color: aliceblue;
+    font-size: 20px;
+    display: block;
+
+}
+.logo{
+    padding-left: 3vh;
+    padding-top: 2vh;
+    display: inline-block;
+}
+nav{
+    margin-left: 17vh;
+    margin-top: -6vh;
+}
+.btn{
+    margin-left: 75vh;
+    background-color:rgb(30, 30, 166);
+    /* padding: 10px; */
+    border-color: aliceblue;
+    border-radius: 17px;
+    padding-left: 4vh;
+    padding-right: 4vh;
+    width: 30vh;
+    /* display: inline-block; */
+    height: 5vh;
+    margin-top: -1vh;
+    color: aliceblue;
+    font-size: 1em;
+    
+    
+}
+.nitro-1 button{
+    background-color:rgb(30, 30, 166);
+    border-color: aliceblue;
+    color: aliceblue;
+    width: 17em;
+    font-size: 1em;
+    font-weight: bolder;
+    height: 3em;
+    border-radius: 5em;
+    margin-top: 1em;
+    margin-left: 6em;
+    
+   
+
+}
+.nitro-1 a{
+    text-decoration: none;
+    color: white;
+}
+.nitro-1 a:hover{
+    color:rgb(30, 30, 166) ;
+
+}
+.nitro-1 p{
+    font-size:2em ;
+    color: aliceblue;
+    font-weight: bolder;
+    margin-top: 1em;
+}
+.nitro-1 button:hover{
+    background-color: aliceblue;
+    color:rgb(30, 30, 166) ;
+}
+#pro{
+    float: left;
+}
+.btn:hover{
+    background-color: aliceblue;
+    color:rgb(30, 30, 166) ;
+}
+.banner{
+background-color:black ;
+width: 100%;
+height: 100vh;
+}
+.promo1{
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/pzs-new-taste/pzs-can-nobug-desktop.png);
+    background-size: auto 115%;
+    background-position: right -76px bottom;
+    height: 100%;
+    width: 60vw !important;
+    max-height: unset;
+    margin-left: -2vh;
+    
+}
+.promo-circle{
+    width: 50vh;
+    height: 50vh;
+    border-radius: 25%;
+    margin-left: 70vh;
+    padding-top: 10vh;
+}
+.nitro{
+    background-image:url(https://www.pepsi.com/en-us/uploads/images/nitro/Desktop_Background.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 150vh;
+}
+.nitro-1{
+    float: left;
+   margin-top: 10em;
+   margin-left: 5em;
+}
+.nitro-pic{
+    margin-top: 10em;
+    
+}
+.bn-3{
+    width: 100%;
+    height: 100vh;
+    background-color:rgb(51, 51, 175) ;
+    /* margin-bottom: 20px; */
+}
+.bn-4{
+    width: 100%;
+    height: 100vh;
+    background-color:rgb(42, 42, 128) ;
+}
+.bgn-tag span{
+ width: 4em;
+ height: 2em;
+ color: aliceblue;
+ font-size: 15px;
+ font-weight: bolder;
+}
+.bgn{
+    float: left;
+}
+.mango{
+    float: left;
+    margin-left: 3em;
+}
+/* .mango{
+    padding-top: 50px;
+} */
+/* .mng{
+    padding-top: -50px;
+} */
+.mng-1{
+    padding-top: 70px;
+}
+.mango-tag{
+    color: aliceblue;
+    margin-top: 15em;
+    
+}
+.mango-tag p {
+    font-size: 20px;
+    font-weight: bolder;
+    /* margin-right: 5px; */
+
+}
+.mango-tag img{
+    margin-left: 10px;
+    /* z-index: -1px; */
+
+}
+.bn-4{
+    background-image: url(https://www.pepsi.com/en-us/uploads/images/pepsi-mango/bg-2-desktop@2x.png);
+    /* width: 100%; */
+    height: 100vh;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.pepsi-vedio video{
+    width: 100%;
+    height: 60%;
+
+}
+.bn-6,.bn-7{
+    background-color: rgb(66, 66, 177);
+    width: 100%;
+    height: 100vh;
+}
+.twil{
+ float: left;
+ 
+}
+.twil img{
+    width: 80vh;
+    height: 88vh;
+    margin-top: 80px;
+    margin-left: 60px;
+}
+#header img{
+    width: 70vh;
+    height: 50vh;
+    margin-top:190px ;
+    margin-left:80px ;
+}
+.bottle{
+    margin-top: 10px;
+}
+.btl span{
+    /* margin-left: -2em; */
+    color: aliceblue;
+    font-size: 50px;
+    font-weight: bolder;
+  
+    
+}
+.btl p{
+    color: aliceblue;
+    margin-top: 10px;
+    width: 35em;
+}
+.btl button{
+    /* margin-top: 10px; */
+    background-color:rgb(30, 30, 166);
+    border-color: aliceblue;
+    color: aliceblue;
+    width: 17em;
+    font-size: 1em;
+    font-weight: bolder;
+    height: 3em;
+    border-radius: 5em;
+    margin-top: 1em;
+    margin-left: 1em;
+}
+.btl button a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.btl button:hover{
+    background-color: aliceblue;
+   
+}
+.btl button a:hover{
+    color:rgb(30, 30, 166) ;
+}
+.btl{
+    float: left;
+    /* width: 50%; */
+  
+    margin-top: 150px;
+    margin-left: 100px;
+    
+}
+#products{
+      /* margin-left: -35em; */
+
+}
+.btl img{
+    width: 140px;
+    height: 300px;
+    margin-top: 50px;
+    margin-left: 10px;
+    /* margin-left: 40em; */
+}
+#btl-img{
+    /* margin-left: 150px; */
+}
+.pepsi-footer{
+    background-color: rgb(30, 30, 166);
+    width: 100%;
+    height: 30vh;
+    margin-top: 100px;
+    padding-top: 80px;
+    /* margin-left: 40px;   */
+}
+#footprint{
+    margin-left: 50px;
+}
+.foot span{
+    font-size: 20px;
+    font-weight: bolder;
+    /* color: aliceblue; */
+}
+.foot span a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.foot{
+    float: left;
+    width: 200px;
+    margin-left: 30px;
+}
+.links{
+    float: left;
+    margin-left: 7px;
+    margin-top: 5px;
+    /* color: aliceblue; */
+
+}
+#links-1{
+    margin-left: 17px;
+
+}
+.links i{
+    font-size: 30px;
+    color: aliceblue;
+}
+.foot button{
+    background-color:rgb(30, 30, 166);
+    border-color: aliceblue;
+    color: aliceblue;
+    width: 17em;
+    font-size: 1em;
+    font-weight: bolder;
+    height: 3em;
+    border-radius: 5em;
+    margin-top: 1em;
+    margin-left: 1em;
+}
+.foot button a{
+    text-decoration: none;
+    color: aliceblue;
+}
+.foot button a:hover{
+    background-color: aliceblue;
+    color:rgb(30, 30, 166) ;
+}
+.foot button:hover{
+    background-color: aliceblue;
+    color:rgb(30, 30, 166);
+
+}
+
